@@ -1,0 +1,22 @@
+h2, h3,h4,h5,h6 {
+   font-family: 'Flexo-Medium', 'Comic Sans MS', sans-serif;
+}
+
+div, span {
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+.card {
+    background-color: lightgoldenrodyellow;
+    border-radius: 16px;
+    border-color: black;
+    border-width: 2px;
+    margin: 8px;
+    padding: 8px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    max-width: 300px;
+}
